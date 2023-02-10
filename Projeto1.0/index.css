@@ -1,0 +1,30 @@
+h1{ 
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;  }
+
+p{ 
+    color:rgb(255, 255, 255)
+
+}
+
+body{ 
+  background-image: linear-gradient(to right, rgb(123, 114, 47), rgb(161, 30, 216));}
+    
+
+.basic{
+    color:rgb(224, 120, 16)
+}
+    .segundo{
+        color: brown;
+    }
+    .terceiro{
+        color: rgb(18, 232, 50);
+    }
+.mark2{
+    background-color: tomato;
+}
+
+
+
+
